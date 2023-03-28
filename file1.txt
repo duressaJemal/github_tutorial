@@ -1,2 +1,8 @@
 this is file1 and is in gitignore
 with pull
+
+made change from branch duressaJemal.file4
+
+
+
+again made changes to file1 from branch duressaJemal.file4
